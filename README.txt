@@ -1,0 +1,1 @@
+Para ver correctamente la práctica, abrir en Processing el fichero rubik
